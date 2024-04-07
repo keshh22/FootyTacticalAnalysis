@@ -1,6 +1,6 @@
 # Football Tactical Analysis
 
-This is a web application that converts camera footage clips from football games into a tactical map/field representation based on game state using yolo object detection. The python file can: 
+This is an application that converts camera footage clips from football games into a tactical map/field representation based on game state using yolo object detection. The python file can: 
 1. Detect players from different teams based on kit colors and pre-defined parameters
 2. Detect referees and current position of the ball
 3. Track ball movements
